@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpramparo&label=Profile%20views&color=0e75b6&style=flat" alt="dpramparo" /> </p>
 
+- 🌱 I’m currently learning **Diplomatura en Ciencia de Datos - Famaf**
+
+- 👯 I’m looking to collaborate on [Mercado Libre](www.mercadolibre.com.ar)
+
+- 💬 Ask me about **Python, Machine Learning, Data Science, Computer Vision, Data preparation**
+
 - 📫 How to reach me **damian_pramparo@hotmail.com**
+
+- 📄 Know about my experiences [In my portfolio, I share my experiences as a Computer Engineering graduate with a passion for Artificial Intelligence (AI). During my studies, I became fascinated with Reinforcement Learning (RL) and completed several RL projects. I gained practical experience through internships, including one where I worked on an autonomous drone using RL. Currently, I am a Data Science Developer at Mercado Libre, applying AI techniques to solve real-world problems. I continuously learn and grow in this dynamic field, contributing to open-source projects and engaging with the AI community to stay at the forefront of advancements. My journey has been exciting, and I am eager to take on new challenges and make a positive impact in the world of technology and AI.](In my portfolio, I share my experiences as a Computer Engineering graduate with a passion for Artificial Intelligence (AI). During my studies, I became fascinated with Reinforcement Learning (RL) and completed several RL projects. I gained practical experience through internships, including one where I worked on an autonomous drone using RL. Currently, I am a Data Science Developer at Mercado Libre, applying AI techniques to solve real-world problems. I continuously learn and grow in this dynamic field, contributing to open-source projects and engaging with the AI community to stay at the forefront of advancements. My journey has been exciting, and I am eager to take on new challenges and make a positive impact in the world of technology and AI.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
