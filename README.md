@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpramparo&label=Profile%20views&color=0e75b6&style=flat" alt="dpramparo" /> </p>
 
-- 🌱 I’m currently learning **Diplomatura en Ciencia de Datos - Famaf**
+- 🌱 I’m graduate of **Diplomatura en Ciencia de Datos - Famaf**
 
-- 👯 I’m looking to collaborate on [Mercado Libre](www.mercadolibre.com.ar)
+- 👯 I’m looking to collaborate on [Mercado Libre](mercadolibre)
 
 - 💬 Ask me about **Python, Machine Learning, Data Science, Computer Vision, Data preparation**
 
